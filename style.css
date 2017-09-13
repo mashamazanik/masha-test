@@ -1,0 +1,43 @@
+
+
+.body {
+
+    font-family: Serif;
+    font-size: small;
+    font-size: 10px;
+
+
+}
+
+.header {
+
+    height: 200px;
+    background: #ccc;
+
+}
+
+.content {
+
+    width: 810px;
+    height: 200px;
+    float: right;
+    background: #bbbbbb;
+
+}
+
+
+.sidebar {
+
+    width: 150px;
+    height: 200px;
+    float: left;
+    background: #800080;
+}
+
+.footer {
+
+    clear: both;
+    height: 200px;
+    background: #880055
+
+}
